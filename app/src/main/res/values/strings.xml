@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Git Repos</string>
+    <string name="repo_full_name_template">Repository full name: %1$s</string>
+    <string name="author_login_template">Author login: %1$s</string>
+    <string name="git_repos_list_header">Public git repositories</string>
+    <string name="try_again_message">Something went wrong, please try again</string>
+    <string name="retry">RETRY</string>
+    <string name="network_connection_problems">Network connection problems</string>
+    <string name="last_commit">Last Commit</string>
+    <string name="commit_author_template">Author: %1$s</string>
+    <string name="commit_date_template">Date: %1$s</string>
+    <string name="all_parents_sha">All parents sha</string>
+</resources>
